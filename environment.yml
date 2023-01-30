@@ -1,0 +1,4 @@
+name: tensorflow
+dependencies:
+- python=3.9
+
